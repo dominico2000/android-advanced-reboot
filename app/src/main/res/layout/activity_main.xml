@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dominicodev.advancedreboot.MainActivity">
+
+
+    <Button
+        android:id="@+id/reboot"
+        android:layout_width="219dp"
+        android:layout_height="48dp"
+        android:layout_alignBottom="@+id/recovery"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"
+        android:onClick="onclickReboot"
+        android:text="@string/reboot" />
+
+    <Button
+        android:id="@+id/recovery"
+        android:layout_width="219dp"
+        android:layout_height="48dp"
+        android:layout_above="@+id/bootloader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="43dp"
+        android:onClick="onclickRecovery"
+        android:text="@string/reboot_to_recovery" />
+
+    <Button
+        android:id="@+id/bootloader"
+        android:layout_width="219dp"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="152dp"
+        android:onClick="onclickBootloader"
+        android:text="@string/reboot_to_bootloader" />
+
+
+</android.widget.RelativeLayout>

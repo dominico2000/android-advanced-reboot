@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_circle.png",
+        "source": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/res/mipmap-hdpi/ic_launcher_circle.png"
+    }
+]

@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REBOOT
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.RECOVERY
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dominik/.android/build-cache/2881d9c7e51a8c5012446a61bd2a3c63b1c9735d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /home/dominik/.android/build-cache/63f0fcbafaed188675e87260a18c5e85c387c05b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.0] /home/dominik/.android/build-cache/5030978c81058de9ff8669f7ec055229cabe442f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/dominik/.android/build-cache/0100e88b1b24986af873089376db32901530a32d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/dominik/.android/build-cache/14528ddc14f60d8dae741d024fc35a346d2b3fe3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/dominik/.android/build-cache/82699d1569a805b88799cf340eb1b1ff698fc64a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/dominik/.android/build-cache/7b109d59faaeb76713efd3421b1d6e69f8a5d737/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/dominik/.android/build-cache/6e64d8f394b9441551bf3830fa0afc00e38e6c7a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/dominik/.android/build-cache/eb6596abc73a69de708fb304f3c0cf7d13953bf7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/dominik/.android/build-cache/535fcdca1ad92c30efec25418517d750cfb4e132/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/dominik/.android/build-cache/4351ad1401ee85c20575ae5777bf3762f14d7be5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/dominik/.android/build-cache/cc14a3fcf95e48b5661fc103ebeea9158edb9eb4/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:14:9-55
+	android:allowBackup
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.dominicodev.advancedreboot.MainActivity
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:name
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:18:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dominik/.android/build-cache/2881d9c7e51a8c5012446a61bd2a3c63b1c9735d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /home/dominik/.android/build-cache/63f0fcbafaed188675e87260a18c5e85c387c05b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.0] /home/dominik/.android/build-cache/5030978c81058de9ff8669f7ec055229cabe442f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/dominik/.android/build-cache/0100e88b1b24986af873089376db32901530a32d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/dominik/.android/build-cache/14528ddc14f60d8dae741d024fc35a346d2b3fe3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/dominik/.android/build-cache/8168ea65112ea6c2d0d693606bfa8666683fc0e1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /home/dominik/.android/build-cache/82699d1569a805b88799cf340eb1b1ff698fc64a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /home/dominik/.android/build-cache/7b109d59faaeb76713efd3421b1d6e69f8a5d737/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/dominik/.android/build-cache/6e64d8f394b9441551bf3830fa0afc00e38e6c7a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/dominik/.android/build-cache/eb6596abc73a69de708fb304f3c0cf7d13953bf7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/dominik/.android/build-cache/535fcdca1ad92c30efec25418517d750cfb4e132/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/dominik/.android/build-cache/4351ad1401ee85c20575ae5777bf3762f14d7be5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /home/dominik/.android/build-cache/cc14a3fcf95e48b5661fc103ebeea9158edb9eb4/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/dominik/.android/build-cache/5030978c81058de9ff8669f7ec055229cabe442f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.0] /home/dominik/.android/build-cache/63f0fcbafaed188675e87260a18c5e85c387c05b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] /home/dominik/.android/build-cache/5030978c81058de9ff8669f7ec055229cabe442f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/dominik/.android/build-cache/0100e88b1b24986af873089376db32901530a32d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/dominik/.android/build-cache/14528ddc14f60d8dae741d024fc35a346d2b3fe3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/dominik/.android/build-cache/8168ea65112ea6c2d0d693606bfa8666683fc0e1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /home/dominik/.android/build-cache/82699d1569a805b88799cf340eb1b1ff698fc64a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/dominik/.android/build-cache/7b109d59faaeb76713efd3421b1d6e69f8a5d737/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/dominik/.android/build-cache/6e64d8f394b9441551bf3830fa0afc00e38e6c7a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/dominik/.android/build-cache/eb6596abc73a69de708fb304f3c0cf7d13953bf7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/dominik/.android/build-cache/535fcdca1ad92c30efec25418517d750cfb4e132/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/dominik/.android/build-cache/4351ad1401ee85c20575ae5777bf3762f14d7be5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/dominik/.android/build-cache/cc14a3fcf95e48b5661fc103ebeea9158edb9eb4/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.0] /home/dominik/.android/build-cache/63f0fcbafaed188675e87260a18c5e85c387c05b/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.0] /home/dominik/.android/build-cache/63f0fcbafaed188675e87260a18c5e85c387c05b/output/AndroidManifest.xml:23:9-47

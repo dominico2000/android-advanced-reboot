@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rebootMessage">Czy napewno chcesz zrestartować urządzenie?</string>
+    <string name="rebootToBootloaderMessage">Czy napewno chcesz zrestartować urządzenie do trybu bootloadera(fastboot)?</string>
+    <string name="rebootToRecoveryMessage">Czy napewno chcesz zrestartować urządzenie do trybu recovery?</string>
+    <string name="cancel">Anuluj</string>
+</resources>

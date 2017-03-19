@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/dominik/.android/build-cache/5030978c81058de9ff8669f7ec055229cabe442f/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/dominik/Programowanie/AndroidStudioProjects/AdvancedReboot/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dominik/.android/build-cache/de71f2028d897daa56c58ea89c70b84b08c6f614/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]
